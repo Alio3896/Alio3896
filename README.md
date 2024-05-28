@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Alio3896
-- 👀 I’m interested in Mechanical Engineering, feild of Applied Design (Dynamics,Control and Vibration)
-- 🌱 I’m currently M.Sc student
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm Ali Khoddoum
+M.Sc stu of Mechanical Engineering
+My major field is Applied Design(Dynamics, Control and Vibration)
+
+
+That is academic Webpage
 
 <!---
 Alio3896/Alio3896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
