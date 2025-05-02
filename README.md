@@ -1,7 +1,11 @@
 👋 Hi there, I'm Ali Khoddoum!
+
 🌱 I’m currently studying mechanical engineering and always eager to expand my knowledge.
+
 💬 Ask me about anything, whether it's your engineering problem, tech, or just to have a friendly chat! 😄
+
 📫 You can reach me at a.khoddoum@gmail.com.
+
 ⚡ Fun fact: Fun?!
 
 That is academic Webpage
